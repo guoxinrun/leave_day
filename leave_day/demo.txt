@@ -1,0 +1,4 @@
+git is a version control system
+guoxinrun will learn git
+will learn well
+my boss well
