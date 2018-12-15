@@ -4,4 +4,8 @@ will learn well
 my boss well
 very well!
 not soso
+<<<<<<< HEAD
 not just
+=======
+well done
+>>>>>>> feature1
