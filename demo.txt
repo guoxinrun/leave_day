@@ -5,7 +5,11 @@ my boss well
 very well!
 not soso
 <<<<<<< HEAD
+<<<<<<< HEAD
 not just
 =======
-well done
+not just
 >>>>>>> feature1
+=======
+not just
+>>>>>>> dev
