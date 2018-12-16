@@ -4,12 +4,5 @@ will learn well
 my boss well
 very well!
 not soso
-<<<<<<< HEAD
-<<<<<<< HEAD
 not just
-=======
-not just
->>>>>>> feature1
-=======
-not just
->>>>>>> dev
+
