@@ -1,2 +1,2 @@
 all about me
-I 
+I am guoxinrun
